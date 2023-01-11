@@ -1,0 +1,15 @@
+E:\Project\C#\Less1\bin\Debug\net6.0\Less1.exe
+E:\Project\C#\Less1\bin\Debug\net6.0\Less1.deps.json
+E:\Project\C#\Less1\bin\Debug\net6.0\Less1.runtimeconfig.json
+E:\Project\C#\Less1\bin\Debug\net6.0\Less1.dll
+E:\Project\C#\Less1\bin\Debug\net6.0\Less1.pdb
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.csproj.AssemblyReference.cache
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.AssemblyInfoInputs.cache
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.AssemblyInfo.cs
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.csproj.CoreCompileInputs.cache
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.dll
+E:\Project\C#\Less1\obj\Debug\net6.0\refint\Less1.dll
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.pdb
+E:\Project\C#\Less1\obj\Debug\net6.0\Less1.genruntimeconfig.cache
+E:\Project\C#\Less1\obj\Debug\net6.0\ref\Less1.dll
