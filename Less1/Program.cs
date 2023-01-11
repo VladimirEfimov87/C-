@@ -69,7 +69,7 @@
 
 
 
-
+//       
 
 // Console.Write("Введите число 1: ");
 // int num = Convert.ToInt32(Console.ReadLine());
